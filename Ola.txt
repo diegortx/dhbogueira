@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 
 Ola
 Olá hotfix !
+=======
+Ola
+
+Ola hotfix !
+ola 2 hotfix!
+>>>>>>> hotfix
